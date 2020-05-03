@@ -3,6 +3,6 @@
 Curriculo criado a partir de um modelo Bootstrap.
 
 
-![](captureIndex.png)
+![](captureIndex.PNG)
 
 Author Jefferson da Silva 
