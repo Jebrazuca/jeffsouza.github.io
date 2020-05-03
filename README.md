@@ -1,8 +1,8 @@
-# Curriculo - Utilizando Modelo Bootstrap
+# Curriculum - Made with Bootstrap Model
 
-Curriculo criado a partir de um modelo Bootstrap.
+Curriculum using bootstrap template on https://startbootstrap.com/.
 
 
-![](captureIndex.PNG)
+![](img/indexCapture.gif)
 
 Author Jefferson da Silva 
