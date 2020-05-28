@@ -1,6 +1,6 @@
-# Curriculum - Made with Bootstrap Model
+# CV - Made with Bootstrap Model
 
-Curriculum using bootstrap template on https://startbootstrap.com/.
+CV using bootstrap template on https://startbootstrap.com/.
 
 
 ![](img/indexCapture.gif)
