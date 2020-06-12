@@ -1,8 +1,8 @@
 # CV - Made with Bootstrap Model
 
-CV using bootstrap template on https://startbootstrap.com/.
+CV using bootstrap template.
 
 
 ![](img/indexCapture.gif)
 
-Author Jefferson da Silva 
+**Author:** _Jefferson da Silva_
